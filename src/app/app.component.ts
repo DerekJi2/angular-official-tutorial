@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'DataHub-Manage-Web';
+  title = 'DataHub Management Web';
 }
